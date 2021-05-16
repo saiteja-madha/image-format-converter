@@ -1,5 +1,5 @@
 # Description
-A simple C# console application to convert images from one format to another
+A simple C# console application to bulk convert images from one format to another
 
 # Supported Image Formats
 The following image formats are supported
@@ -10,3 +10,9 @@ The following image formats are supported
 - ico
 - png
 - tif
+
+## Usage
+- Download the latest build from [release](https://github.com/saiteja-madha/image-format-converter/releases) page
+- Run the downloaded application
+- Select the source folder, target folder, source format and target format
+- Done! Wait for the conversion to complete
